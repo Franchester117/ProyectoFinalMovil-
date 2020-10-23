@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\frank\\Downloads\\ProyectoFinalMovil-main\\ProyectoFinalMovil-main\\ProyectoFinalMovil.Android\\ProyectoFinalMovil.Android.csproj": {}
+    "F:\\proyectos\\proyectos xamarin\\ProyectoFinalMovil-\\ProyectoFinalMovil.Android\\ProyectoFinalMovil.Android.csproj": {}
   },
   "projects": {
-    "C:\\Users\\frank\\Downloads\\ProyectoFinalMovil-main\\ProyectoFinalMovil-main\\ProyectoFinalMovil.Android\\ProyectoFinalMovil.Android.csproj": {
+    "F:\\proyectos\\proyectos xamarin\\ProyectoFinalMovil-\\ProyectoFinalMovil.Android\\ProyectoFinalMovil.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\frank\\Downloads\\ProyectoFinalMovil-main\\ProyectoFinalMovil-main\\ProyectoFinalMovil.Android\\ProyectoFinalMovil.Android.csproj",
+        "projectUniqueName": "F:\\proyectos\\proyectos xamarin\\ProyectoFinalMovil-\\ProyectoFinalMovil.Android\\ProyectoFinalMovil.Android.csproj",
         "projectName": "ProyectoFinalMovil.Android",
-        "projectPath": "C:\\Users\\frank\\Downloads\\ProyectoFinalMovil-main\\ProyectoFinalMovil-main\\ProyectoFinalMovil.Android\\ProyectoFinalMovil.Android.csproj",
-        "packagesPath": "C:\\Users\\frank\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\frank\\Downloads\\ProyectoFinalMovil-main\\ProyectoFinalMovil-main\\ProyectoFinalMovil.Android\\obj\\",
+        "projectPath": "F:\\proyectos\\proyectos xamarin\\ProyectoFinalMovil-\\ProyectoFinalMovil.Android\\ProyectoFinalMovil.Android.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "F:\\proyectos\\proyectos xamarin\\ProyectoFinalMovil-\\ProyectoFinalMovil.Android\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\frank\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -32,8 +32,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "C:\\Users\\frank\\Downloads\\ProyectoFinalMovil-main\\ProyectoFinalMovil-main\\ProyectoFinalMovil\\ProyectoFinalMovil.csproj": {
-                "projectPath": "C:\\Users\\frank\\Downloads\\ProyectoFinalMovil-main\\ProyectoFinalMovil-main\\ProyectoFinalMovil\\ProyectoFinalMovil.csproj"
+              "F:\\proyectos\\proyectos xamarin\\ProyectoFinalMovil-\\ProyectoFinalMovil\\ProyectoFinalMovil.csproj": {
+                "projectPath": "F:\\proyectos\\proyectos xamarin\\ProyectoFinalMovil-\\ProyectoFinalMovil\\ProyectoFinalMovil.csproj"
               }
             }
           }
@@ -54,20 +54,20 @@
         }
       }
     },
-    "C:\\Users\\frank\\Downloads\\ProyectoFinalMovil-main\\ProyectoFinalMovil-main\\ProyectoFinalMovil\\ProyectoFinalMovil.csproj": {
+    "F:\\proyectos\\proyectos xamarin\\ProyectoFinalMovil-\\ProyectoFinalMovil\\ProyectoFinalMovil.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\frank\\Downloads\\ProyectoFinalMovil-main\\ProyectoFinalMovil-main\\ProyectoFinalMovil\\ProyectoFinalMovil.csproj",
+        "projectUniqueName": "F:\\proyectos\\proyectos xamarin\\ProyectoFinalMovil-\\ProyectoFinalMovil\\ProyectoFinalMovil.csproj",
         "projectName": "ProyectoFinalMovil",
-        "projectPath": "C:\\Users\\frank\\Downloads\\ProyectoFinalMovil-main\\ProyectoFinalMovil-main\\ProyectoFinalMovil\\ProyectoFinalMovil.csproj",
-        "packagesPath": "C:\\Users\\frank\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\frank\\Downloads\\ProyectoFinalMovil-main\\ProyectoFinalMovil-main\\ProyectoFinalMovil\\obj\\",
+        "projectPath": "F:\\proyectos\\proyectos xamarin\\ProyectoFinalMovil-\\ProyectoFinalMovil\\ProyectoFinalMovil.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "F:\\proyectos\\proyectos xamarin\\ProyectoFinalMovil-\\ProyectoFinalMovil\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\frank\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -125,7 +125,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

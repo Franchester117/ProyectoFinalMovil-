@@ -31,7 +31,6 @@ namespace ProyectoFinalMovil.View
 
             if (user.id_usuario != 0)
             {
-                await DisplayAlert("Login Exitoso", "Id: " + user.id_usuario + "Nombre: " + user.nombre, "OK");
                 await Navigation.PushAsync(new Page_Asign_Clas(user));
             }
             else

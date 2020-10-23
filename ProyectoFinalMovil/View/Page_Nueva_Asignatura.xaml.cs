@@ -12,7 +12,7 @@ namespace ProyectoFinalMovil.View
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class Page_Nueva_Asignatura : ContentPage
     {
-        public Page_Nueva_Asignatura()
+        public Page_Nueva_Asignatura(Usuario usuario)
         {
             InitializeComponent();
         }
